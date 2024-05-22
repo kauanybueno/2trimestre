@@ -1,7 +1,7 @@
-:root {
-    --cor-de-fundo : rgb(75, 155, 88);
+.imagem {
+    text-align: center;
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: blue;
 }
